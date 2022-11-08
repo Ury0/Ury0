@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ury0
 - 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on everything 
 - 📫 How to reach me uryserpa@gmail.com
 
